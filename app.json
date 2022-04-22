@@ -1,6 +1,6 @@
 {
   "name": "Shadowsocks+V2Ray-plugin Rapid deployment",
-  "description": "Deploy Shadowsocks+V2Ray-plugin to Heroku.",
+  "description": "I copied this app.json because i do not understand it",
   "keywords": ["V2ray", "Shadowsocks", "V2Ray-plugin"],
   "env": {
      "ENCRYPT": {
